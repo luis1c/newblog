@@ -1,0 +1,2 @@
+# newblog
+Blog Rails
